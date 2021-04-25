@@ -1,0 +1,30 @@
+#ifndef DACTORPROFILEWIDGET_H
+#define DACTORPROFILEWIDGET_H
+
+#include "widget.h"
+
+
+struct DoctorProfileData;
+class DoctorProfile;
+
+
+class DoctorProfileWidget : public Widget
+{
+public:
+    DoctorProfileWidget(DoctorProfile* _object, DoctorProfileData _data, QWidget* parent = nullptr, GlobalData::OutputType _outputType = GlobalData::Output_Guest);
+    
+    
+private:
+    DoctorProfile* my_object;
+    QLabel* my_workTime;
+    QLabel* my_replyInterval;
+    
+public slots:
+    
+    
+signals:
+    
+    
+};
+
+#endif // DACTORPROFILEWIDGET_H

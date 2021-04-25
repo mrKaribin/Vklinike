@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">VKlinike</string>
+
+    <string name="login_header_default">Введите учетные данные</string>
+
+    <string name="main_menu_mode">Сменить режим</string>
+    <string name="main_menu_exit">Выйти</string>
+
+    <string name="dialog_menu_block">Заблокировать</string>
+    <string name="dialog_menu_delete">Очистить историю</string>
+    <string name="dialog_menu_search">Поиск</string>
+    <string name="dialog_enclosures_image">Изображение</string>
+
+    <string name="title_profile">Профиль</string>
+    <string name="title_message">Сообщения</string>
+    <string name="title_search">Поиск</string>
+
+    <string name="default_name">Имя</string>
+    <string name="default_surname">Фамилия</string>
+    <string name="default_patronymic">Отчество</string>
+    <string name="default_FIO">Фамилия Имя Отчество</string>
+    <string name="default_IO">Имя Отчество</string>
+    <string name="default_age">Возраст</string>
+    <string name="default_sex">Пол</string>
+    <string name="default_sex_male">Мужской</string>
+    <string name="default_sex_female">Женский</string>
+    <string name="default_birthday">Дата рождения</string>
+    <string name="default_birthday_f_dd_mm_yyyy">Дата рождения (дд.мм.гггг)</string>
+    <string name="default_email">Email</string>
+    <string name="default_phone">Телефон</string>
+    <string name="default_password">Пароль</string>
+    <string name="default_education">Образование</string>
+    <string name="default_job">Место работы</string>
+    <string name="default_worktable">График работы</string>
+    <string name="default_reply_time">Время ответа</string>
+    <string name="default_save">Сохранить</string>
+    <string name="default_add">Добавить</string>
+    <string name="default_specialization">Специализация</string>
+    <string name="default_duration">Длительность</string>
+    <string name="default_cost">Стоимость</string>
+    <string name="default_valuta">Валюта</string>
+    <string name="default_consultation_time">Время консультаций</string>
+
+    <string name="profile_header">Специализация</string>
+    <string name="profile_header_name">Имя</string>
+    <string name="profile_header_surname">Фамилия</string>
+    <string name="profile_header_patronymic">Отчество</string>
+    <string name="profile_menu_information">Информация</string>
+    <string name="profile_menu_subscriptions">Подписки</string>
+    <string name="profile_menu_comments">Отзывы</string>
+    <string name="profile_edit">Редактировать</string>
+
+    <string name="profile_information_base_age">Возраст:</string>
+    <string name="profile_information_base_email">Email:</string>
+    <string name="profile_information_base_phone">Телефон:</string>
+
+    <string name="profile_information_doctor_workTime">Время работы:</string>
+    <string name="profile_information_doctor_replyTime">Время ответа:</string>
+    <string name="profile_information_doctor_education">Образование:</string>
+    <string name="profile_information_doctor_job">Место работы:</string>
+
+    <string name="profile_subscription_specialization">Специализация</string>
+    <string name="profile_subscription_package">Тип подписки</string>
+    <string name="profile_subscription_tariff_cost">Стоимость</string>
+    <string name="profile_subscription_tariff_time">Консультации</string>
+
+    <string name="profile_patient_subscription_preview_balance">Остаток</string>
+    <string name="profile_patient_subscription_preview_fio">Врач:</string>
+    <string name="profile_patient_subscription_preview_duration">Тип:</string>
+
+    <string name="message_preview_fio">Имя Фамилия</string>
+    <string name="message_preview_specialization">Специализация</string>
+
+    <string name="order_header">Оформление подписки</string>
+    <string name="order_fio">ФИО врача:</string>
+    <string name="order_specialization">Специализация:</string>
+    <string name="order_duration">Длительность:</string>
+    <string name="order_time">Время консультаций:</string>
+    <string name="order_cost">Стоимость:</string>
+    <string name="order_payout_header">Выберите способ платежа</string>
+    <string name="order_payout_paypal">PayPal</string>
+    <string name="order_payout_yandex">Яндекс.Касса</string>
+    <string name="order_payout">Оплатить</string>
+
+    <string-array name="default_months">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+
+    <string-array name="search_specializations">
+        <item>Все врачи</item>
+        <item>Педиатрия</item>
+        <item>Хирургия</item>
+        <item>Остеопатия</item>
+        <item>Физеотерапия</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Вход</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Войти</string>
+    <string name="action_registration">Регистрация</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="@dimen/margin_default"
+    tools:context=".ui.profile.doctor.ProfileSubscriptionEditFragment">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/profile_subscription_edit_header"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_columnSpan="2"
+            android:layout_gravity="center"
+            style="@style/TextHeaderDefault"/>
+
+        <TextView
+            android:text="@string/default_specialization"
+            android:layout_row="1"
+            android:layout_column="0"
+            android:layout_gravity="center_vertical"
+            style="@style/TextHeaderSmall"/>
+
+        <Spinner
+            android:layout_row="1"
+            android:layout_column="1"
+            android:layout_gravity="right"
+            android:layout_marginTop="@dimen/margin_small"
+            android:id="@+id/profile_subscription_edit_specialization"
+            style="@style/SpinnerRounded"/>
+
+        <TextView
+            android:text="@string/default_duration"
+            android:layout_row="2"
+            android:layout_column="0"
+            android:layout_gravity="center_vertical"
+            style="@style/TextHeaderSmall"/>
+
+        <Spinner
+            android:layout_row="2"
+            android:layout_column="1"
+            android:layout_gravity="right"
+            android:layout_marginTop="@dimen/margin_small"
+            android:id="@+id/profile_subscription_edit_duration"
+            style="@style/SpinnerRounded"/>
+
+        <TextView
+            android:text="@string/default_cost"
+            android:layout_row="3"
+            android:layout_column="0"
+            android:layout_gravity="center_vertical"
+            style="@style/TextHeaderSmall"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_row="3"
+            android:layout_column="1"
+            android:layout_marginTop="@dimen/margin_small"
+            android:layout_gravity="right">
+
+            <EditText
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/margin_small"
+                android:textSize="@dimen/text_size_header_small"
+                android:id="@+id/profile_subscription_edit_cost"/>
+
+            <Spinner
+                android:id="@+id/profile_subscription_edit_valuta"
+                style="@style/SpinnerRounded"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:text="@string/default_consultation_time"
+            android:layout_row="4"
+            android:layout_column="0"
+            android:layout_gravity="center_vertical"
+            style="@style/TextHeaderSmall"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_row="4"
+            android:layout_column="1"
+            android:layout_marginTop="@dimen/margin_small"
+            android:layout_gravity="right">
+
+            <Spinner
+                android:id="@+id/profile_subscription_edit_time_hours"
+                style="@style/SpinnerRounded"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text=" : "
+                android:textStyle="bold"/>
+
+            <Spinner
+                android:id="@+id/profile_subscription_edit_time_minutes"
+                style="@style/SpinnerRounded"/>
+
+        </LinearLayout>
+
+    </GridLayout>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/profile_subscription_edit_save"
+        style="@style/ButtonRounded"/>
+
+</LinearLayout>

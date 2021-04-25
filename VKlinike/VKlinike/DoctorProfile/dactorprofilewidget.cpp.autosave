@@ -1,0 +1,8 @@
+#include "dactorprofilewidget.h"
+#include "
+
+
+DoctorProfileWidget::DoctorProfileWidget(DoctorProfile* _object, DoctorProfileData _data, QWidget* parent, GlobalData::OutputType _outputType)
+{
+    
+}

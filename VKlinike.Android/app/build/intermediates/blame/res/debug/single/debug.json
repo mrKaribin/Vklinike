@@ -1,0 +1,930 @@
+[
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dialog.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\activity_dialog.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_profile_comment_star_gold.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-mdpi\\icon_profile_comment_star_gold.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_dialog_enclosure.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-mdpi\\icon_dialog_enclosure.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_image_doctor.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxhdpi\\image_doctor.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_subscription_consultation.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_subscription_consultation.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_profile_comment_star_gold.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_profile_comment_star_gold.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_subscription_time_remaining.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xhdpi\\icon_subscription_time_remaining.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_view_rectangle.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable\\background_view_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_options.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-mdpi\\icon_options.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_message_send.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-mdpi\\icon_message_send.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_dialog_video.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_dialog_video.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_add.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_add.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_dialog_video.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xhdpi\\icon_dialog_video.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_dialog_phone.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-mdpi\\icon_dialog_phone.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_dialog_send.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-hdpi\\icon_dialog_send.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_subscription_time.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-hdpi\\icon_subscription_time.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_dialog_phone.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_dialog_phone.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_image_patient.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xhdpi\\image_patient.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_dialog_enclosure.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_dialog_enclosure.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_subscription_consultation.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-mdpi\\icon_subscription_consultation.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_subscription_monthly.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-hdpi\\icon_subscription_monthly.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_browser.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_browser.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_image_doctor.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xhdpi\\image_doctor.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_subscription_daily.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-mdpi\\icon_subscription_daily.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_search_finding.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxhdpi\\icon_search_finding.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_viewer.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\activity_viewer.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_add.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_add.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_subscription_time_remaining.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_subscription_time_remaining.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_dialog_video.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_dialog_video.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_options.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_options.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_message_send.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_message_send.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile_base_edit.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_profile_base_edit.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_add.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xhdpi\\icon_add.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_message.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xhdpi\\icon_message.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_registration.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_registration.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_dialog_send.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_dialog_send.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_patient.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-hdpi\\image_patient.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_subscription_time_remaining.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxhdpi\\icon_subscription_time_remaining.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_subscription_weekly.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxhdpi\\icon_subscription_weekly.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_subscription_monthly.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xhdpi\\icon_subscription_monthly.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_profile_comment_star_gold.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_profile_comment_star_gold.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_message_input.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_message_input.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_search_patient.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_search_patient.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\menu_dialog_menu.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\menu\\dialog_menu.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_message.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxhdpi\\icon_message.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_dialog_enclosure.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_dialog_enclosure.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_options.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxhdpi\\icon_options.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_message.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-hdpi\\icon_message.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_profile_comment_star_gold.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_profile_comment_star_gold.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_search_finding.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_search_finding.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_messages.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_messages.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_message_output.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_message_output.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_dialog_phone.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_dialog_phone.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_subscription_consultation.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xhdpi\\icon_subscription_consultation.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_options.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_options.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_back.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_back.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_subscription_cost.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-hdpi\\icon_subscription_cost.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_view_rounded.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable\\background_view_rounded.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_dialog_send.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xhdpi\\icon_dialog_send.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_options.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xhdpi\\icon_options.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_back.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_back.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile_patient_subscription_preview.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_profile_patient_subscription_preview.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_subscription_cost.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_subscription_cost.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_dialog_phone.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-hdpi\\icon_dialog_phone.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_subscription_cost.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_subscription_cost.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_search.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-hdpi\\icon_search.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_subscription_monthly.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-mdpi\\icon_subscription_monthly.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\menu_enclosures_menu.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\menu\\enclosures_menu.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_profile.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-mdpi\\icon_profile.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_image_doctor.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxxhdpi\\image_doctor.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile_patient.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_profile_patient.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_message.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-mdpi\\icon_message.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_image_patient.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-mdpi\\image_patient.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_subscription_time_remaining.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_subscription_time_remaining.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_subscription_time.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_subscription_time.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_subscription_time.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_subscription_time.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_search_finding.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xhdpi\\icon_search_finding.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_profile_achievement.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_profile_achievement.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_search_finding.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_search_finding.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_subscription_consultation.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_subscription_consultation.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_profile.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-hdpi\\icon_profile.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_dialog_phone.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_dialog_phone.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_search.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xhdpi\\icon_search.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile_subscription_add.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_profile_subscription_add.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_subscription_time.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xhdpi\\icon_subscription_time.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_back.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_back.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_dialog_video.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-mdpi\\icon_dialog_video.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_subscription_consultation.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_subscription_consultation.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_subscription_weekly.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_subscription_weekly.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_subscription_daily.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-hdpi\\icon_subscription_daily.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_profile_comment_star_gold.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-hdpi\\icon_profile_comment_star_gold.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_dialog_enclosure.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-hdpi\\icon_dialog_enclosure.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_frame_rectangle.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable\\background_frame_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_subscription_cost.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xhdpi\\icon_subscription_cost.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_subscription_time_remaining.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-mdpi\\icon_subscription_time_remaining.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_frame_oval.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable\\background_frame_oval.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile_tariff.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_profile_tariff.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_back.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxhdpi\\icon_back.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_message_send.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_message_send.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_profile_comment_star_gold.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xhdpi\\icon_profile_comment_star_gold.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_view_oval.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable\\background_view_oval.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_profile_achievement.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-mdpi\\icon_profile_achievement.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_dialog_enclosure.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_dialog_enclosure.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_search_finding.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_search_finding.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_add.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxhdpi\\icon_add.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_profile_achievement.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_profile_achievement.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile_information_base.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_profile_information_base.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_add.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-mdpi\\icon_add.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile_doctor.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_profile_doctor.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_dialog_enclosure.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxhdpi\\icon_dialog_enclosure.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_subscription_time_remaining.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_subscription_time_remaining.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_dialog_send.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-mdpi\\icon_dialog_send.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_subscription_weekly.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-hdpi\\icon_subscription_weekly.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_profile.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_profile.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_subscription_monthly.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_subscription_monthly.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_search_patient_preview.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_search_patient_preview.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_image_patient.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxhdpi\\image_patient.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_subscription_time.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-mdpi\\icon_subscription_time.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_empty.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_empty.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_message.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_message.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_dialog_video.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-hdpi\\icon_dialog_video.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_profile_comment_star_empty.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-mdpi\\icon_profile_comment_star_empty.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_subscription_time_remaining.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-hdpi\\icon_subscription_time_remaining.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_dialog_video.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_dialog_video.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_subscription_cost.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-mdpi\\icon_subscription_cost.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_profile_comment_star_empty.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_profile_comment_star_empty.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_subscription_daily.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xhdpi\\icon_subscription_daily.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_message_enclosure_image.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_message_enclosure_image.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_options.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-hdpi\\icon_options.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_order.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_order.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_profile_comment_star_empty.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxhdpi\\icon_profile_comment_star_empty.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_subscription_cost.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxhdpi\\icon_subscription_cost.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_profile_achievement.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxhdpi\\icon_profile_achievement.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_profile_comment_star_empty.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_profile_comment_star_empty.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_profile_comment_star_empty.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xhdpi\\icon_profile_comment_star_empty.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_profile_comment_star_gold.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxhdpi\\icon_profile_comment_star_gold.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_subscription_time.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxhdpi\\icon_subscription_time.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_dialog_send.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_dialog_send.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_search.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-mdpi\\icon_search.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_back.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-hdpi\\icon_back.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_back.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-mdpi\\icon_back.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_message_send.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-hdpi\\icon_message_send.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_profile_comment_star_empty.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_profile_comment_star_empty.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_dialog_send.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxhdpi\\icon_dialog_send.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_back.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xhdpi\\icon_back.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_subscription_weekly.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-mdpi\\icon_subscription_weekly.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_frame_rounded.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable\\background_frame_rounded.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_doctor.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-hdpi\\image_doctor.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_subscription_consultation.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-hdpi\\icon_subscription_consultation.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_add.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-hdpi\\icon_add.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile_package.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_profile_package.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile_information_doctor.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_profile_information_doctor.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_options.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_options.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_message_preview.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_message_preview.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile_specialization.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_profile_specialization.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_message_send.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxhdpi\\icon_message_send.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_dialog_enclosure.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xhdpi\\icon_dialog_enclosure.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_profile_achievement.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xhdpi\\icon_profile_achievement.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_profile.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xhdpi\\icon_profile.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_dialog_phone.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxhdpi\\icon_dialog_phone.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_message_send.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xhdpi\\icon_message_send.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_dialog_phone.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xhdpi\\icon_dialog_phone.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_subscription_daily.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_subscription_daily.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_profile_achievement.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-hdpi\\icon_profile_achievement.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_add.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_add.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_search_finding.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-mdpi\\icon_search_finding.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_profile.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxhdpi\\icon_profile.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_profile_achievement.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_profile_achievement.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_dialog_video.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxhdpi\\icon_dialog_video.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_dialog_send.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_dialog_send.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_image_doctor.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-mdpi\\image_doctor.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_subscription_monthly.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxhdpi\\icon_subscription_monthly.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_subscription_time.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_subscription_time.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile_subscription_edit.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_profile_subscription_edit.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_subscription_weekly.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xhdpi\\icon_subscription_weekly.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_message_send.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_message_send.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile_comment.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_profile_comment.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dialog_enclosure_image.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_dialog_enclosure_image.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_search.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_search.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile_achievement.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\layout\\fragment_profile_achievement.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_subscription_cost.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_subscription_cost.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_subscription_daily.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxhdpi\\icon_subscription_daily.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_search.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxhdpi\\icon_search.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_search_finding.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-hdpi\\icon_search_finding.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_profile_comment_star_empty.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-hdpi\\icon_profile_comment_star_empty.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_image_patient.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxxhdpi\\image_patient.png"
+    },
+    {
+        "merged": "C:\\Projects\\Android_Projects\\VKlinike\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_subscription_consultation.png.flat",
+        "source": "C:\\Projects\\Android_Projects\\VKlinike\\app\\src\\main\\res\\drawable-xxhdpi\\icon_subscription_consultation.png"
+    }
+]

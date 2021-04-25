@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/profile_subscription_package_height"
+    android:orientation="horizontal"
+    android:padding = "@dimen/margin_small"
+    android:layout_marginTop="@dimen/margin_small"
+    tools:context=".ui.profile.doctor.ProfilePackageFragment"
+    style="@style/ViewRounded">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            tools:ignore="NestedWeights"/>
+
+        <ImageView
+            android:layout_width="@dimen/profile_subscription_package_icon_size"
+            android:layout_height="@dimen/profile_subscription_package_icon_size"
+            android:id="@+id/subscription_package_type_icon"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/margin_small"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/subscription_package_type_name"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:text="@string/profile_subscription_package"
+            style="@style/TextDefault"/>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+
+    <HorizontalScrollView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="3"
+        android:scrollbars="none"
+        android:layout_marginLeft="@dimen/margin_small"
+        android:paddingLeft="@dimen/margin_micro"
+        android:paddingRight="@dimen/margin_micro"
+        android:background="@color/background_default">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:id="@+id/layout_tariffs"
+            android:paddingRight="@dimen/margin_small"/>
+
+    </HorizontalScrollView>
+
+</LinearLayout>

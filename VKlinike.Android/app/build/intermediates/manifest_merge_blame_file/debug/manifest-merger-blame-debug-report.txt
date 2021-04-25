@@ -1,0 +1,83 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.vklinike"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:7:5-31:19
+14        android:allowBackup="true"
+14-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.0.1] C:\Users\Демьян\.gradle\caches\transforms-2\files-2.1\51ec9767ead7a598d20dd24a7369e6f6\core-1.0.1\AndroidManifest.xml:22:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:9:9-43
+18        android:label="@string/app_name"
+18-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:10:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:11:9-54
+20        android:supportsRtl="true"
+20-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:12:9-35
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme" >
+22-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:13:9-40
+23        <activity android:name="com.vklinike.ui.login.LoginActivity" >
+23-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:14:9-19:20
+23-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:14:19-57
+24            <intent-filter>
+24-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:15:13-18:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:16:17-69
+25-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:16:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:17:17-77
+27-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:17:27-74
+28            </intent-filter>
+29        </activity>
+30        <activity android:name="com.vklinike.ViewerActivity" />
+30-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:20:9-52
+30-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:20:19-49
+31        <activity android:name="com.vklinike.ui.dialog.DialogActivity" />
+31-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:21:9-62
+31-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:21:19-59
+32
+33        <meta-data
+33-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:23:9-25:70
+34            android:name="com.google.android.actions"
+34-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:24:13-54
+35            android:resource="@drawable/background_view_rectangle" />
+35-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:25:13-67
+36
+37        <activity
+37-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:27:9-30:20
+38            android:name="com.vklinike.MainActivity"
+38-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:28:13-41
+39            android:label="@string/app_name" >
+39-->C:\Projects\Android_Projects\VKlinike\app\src\main\AndroidManifest.xml:29:13-45
+40        </activity>
+41
+42        <provider
+42-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Демьян\.gradle\caches\transforms-2\files-2.1\87ac5c9302d2cdd805e2f4717a5cf3a7\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+43            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+43-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Демьян\.gradle\caches\transforms-2\files-2.1\87ac5c9302d2cdd805e2f4717a5cf3a7\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+44            android:authorities="com.vklinike.lifecycle-process"
+44-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Демьян\.gradle\caches\transforms-2\files-2.1\87ac5c9302d2cdd805e2f4717a5cf3a7\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+45            android:exported="false"
+45-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Демьян\.gradle\caches\transforms-2\files-2.1\87ac5c9302d2cdd805e2f4717a5cf3a7\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+46            android:multiprocess="true" />
+46-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Демьян\.gradle\caches\transforms-2\files-2.1\87ac5c9302d2cdd805e2f4717a5cf3a7\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+47    </application>
+48
+49</manifest>

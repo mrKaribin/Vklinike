@@ -1,0 +1,116 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="background">@color/background_default</item>
+    </style>
+
+    <style name="layoutItem">
+        <item name="android:layout_margin">15dp</item>
+    </style>
+
+    <style name="ProfileHeaderItem">
+        <item name="android:layout_margin">5dp</item>
+    </style>
+
+    <style name="TextDefault">
+        <item name="android:textSize">@dimen/text_size_default</item>
+    </style>
+
+    <style name="TextDefaultList">
+        <item name="android:textSize">@dimen/text_size_default</item>
+        <item name="android:layout_marginTop">@dimen/margin_default</item>
+    </style>
+
+    <style name="TextHeaderDefault">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/text_size_header_default</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextHeaderSmall">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/text_size_header_small</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">@dimen/margin_default</item>
+    </style>
+
+    <style name="TextHeaderBig">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/text_size_header_big</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+
+    <style name="ViewDefault"
+        parent="android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/text_size_default</item>
+        <item name="android:background">@drawable/background_view_rectangle</item>
+    </style>
+
+    <style name="ViewRounded"
+        parent="android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/text_size_default</item>
+        <item name="android:background">@drawable/background_view_rounded</item>
+    </style>
+
+
+    <style name="SpinnerDefault"
+        parent="android:style/Widget.TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/spinner_height</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">@dimen/text_size_default</item>
+        <item name="android:background">@drawable/background_view_rectangle</item>
+    </style>
+
+    <style name="SpinnerRounded"
+        parent="android:style/Widget.TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/spinner_height</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">@dimen/text_size_default</item>
+        <item name="android:background">@drawable/background_view_rounded</item>
+    </style>
+
+
+    <style name="FrameDefault"
+        parent="android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/text_size_default</item>
+        <item name="android:background">@drawable/background_frame_rectangle</item>
+    </style>
+
+    <style name="FrameRounded"
+        parent="android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/text_size_default</item>
+        <item name="android:background">@drawable/background_frame_rounded</item>
+    </style>
+
+
+    <style name="ButtonDefault"
+        parent="android:style/Widget.Button">
+        <item name="android:textSize">@dimen/text_size_header_default</item>
+        <item name="android:background">@drawable/background_view_rectangle</item>
+    </style>
+
+    <style name="ButtonRounded"
+        parent="android:style/Widget.Button">
+        <item name="android:textSize">@dimen/text_size_header_default</item>
+        <item name="android:background">@drawable/background_view_rounded</item>
+    </style>
+
+    <style name="ButtonOval"
+        parent="android:style/Widget.Button">
+        <item name="android:textSize">@dimen/text_size_header_default</item>
+        <item name="android:background">@drawable/background_view_oval</item>
+    </style>
+
+</resources>

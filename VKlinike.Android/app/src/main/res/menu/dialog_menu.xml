@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <item
+        android:id="@+id/dialog_menu_search"
+        android:title="@string/dialog_menu_search"/>
+
+    <item
+        android:id="@+id/dialog_menu_block"
+        android:title="@string/dialog_menu_block"/>
+
+    <item
+        android:id="@+id/dialog_menu_delete"
+        android:title="@string/dialog_menu_delete"/>
+
+</menu>

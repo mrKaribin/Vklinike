@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="@dimen/margin_default"
+    android:layout_marginLeft="@dimen/margin_default"
+    android:layout_marginRight="@dimen/margin_default"
+    android:padding="@dimen/margin_default"
+    tools:context=".ui.profile.doctor.ProfileCommentFragment"
+    style="@style/ViewRounded">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/profile_comment_fio"
+        android:layout_gravity="start"
+        style="@style/TextHeaderDefault"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/profile_comments_rating_size"
+        android:orientation="horizontal"
+        style="@style/TextDefaultList">
+
+        <ImageView
+            android:layout_width="@dimen/profile_comments_rating_size"
+            android:layout_height="@dimen/profile_comments_rating_size"
+            android:id="@+id/profile_comment_rating_star1"/>
+
+        <ImageView
+            android:layout_width="@dimen/profile_comments_rating_size"
+            android:layout_height="@dimen/profile_comments_rating_size"
+            android:id="@+id/profile_comment_rating_star2"
+            android:layout_marginLeft="@dimen/margin_small"/>
+
+        <ImageView
+            android:layout_width="@dimen/profile_comments_rating_size"
+            android:layout_height="@dimen/profile_comments_rating_size"
+            android:id="@+id/profile_comment_rating_star3"
+            android:layout_marginLeft="@dimen/margin_small"/>
+
+        <ImageView
+            android:layout_width="@dimen/profile_comments_rating_size"
+            android:layout_height="@dimen/profile_comments_rating_size"
+            android:id="@+id/profile_comment_rating_star4"
+            android:layout_marginLeft="@dimen/margin_small"/>
+
+        <ImageView
+            android:layout_width="@dimen/profile_comments_rating_size"
+            android:layout_height="@dimen/profile_comments_rating_size"
+            android:id="@+id/profile_comment_rating_star5"
+            android:layout_marginLeft="@dimen/margin_small"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/profile_comment_text"
+        android:layout_gravity="start"
+        style="@style/TextDefaultList"/>
+
+</LinearLayout>

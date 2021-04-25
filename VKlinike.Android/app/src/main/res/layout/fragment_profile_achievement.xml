@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="@dimen/profile_achievements_size"
+    android:layout_height="@dimen/profile_achievements_size"
+    android:orientation="vertical"
+    tools:context=".ui.profile.doctor.ProfileAchievementFragment"
+    android:padding="@dimen/margin_default">
+
+    <ImageView
+        android:layout_width="@dimen/profile_achievements_icon_size"
+        android:layout_height="@dimen/profile_achievements_icon_size"
+        android:id="@+id/profile_achievement_icon"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/profile_achievement_text"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:textSize="@dimen/text_size_default"/>
+
+</LinearLayout>

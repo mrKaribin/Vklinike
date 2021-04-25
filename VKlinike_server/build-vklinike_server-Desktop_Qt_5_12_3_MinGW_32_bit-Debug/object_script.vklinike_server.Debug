@@ -1,0 +1,11 @@
+debug/doctors.o
+debug/patients.o
+debug/users.o
+debug/client.o
+debug/global.o
+debug/main.o
+debug/server.o
+debug/tester.o
+debug/moc_users.o
+debug/moc_client.o
+debug/moc_server.o

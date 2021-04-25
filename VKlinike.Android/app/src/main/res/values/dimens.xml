@@ -1,0 +1,49 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="margin_default">12dp</dimen>
+    <dimen name="margin_small">6dp</dimen>
+    <dimen name="margin_micro">2dp</dimen>
+    <dimen name="header_size">55dp</dimen>
+
+    <dimen name="spinner_height">30dp</dimen>
+
+    <dimen name="text_size_default">12sp</dimen>
+    <dimen name="text_size_small">9sp</dimen>
+    <dimen name="text_size_header_default">15sp</dimen>
+    <dimen name="text_size_header_small">12sp</dimen>
+    <dimen name="text_size_header_big">20sp</dimen>
+
+    <dimen name="login_button_width">150dp</dimen>
+
+    <dimen name="profile_base_settings_avatar_width">80dp</dimen>>
+    <dimen name="profile_base_settings_avatar_height">120dp</dimen>>
+    <dimen name="profile_achievements_size">100dp</dimen>
+    <dimen name="profile_achievements_icon_size">50dp</dimen>>
+    <dimen name="profile_subscription_package_height">112dp</dimen>
+    <dimen name="profile_subscription_package_scroll_width">198dp</dimen>
+    <dimen name="profile_subscription_package_icon_size">30dp</dimen>
+    <dimen name="profile_subscription_block_size">88dp</dimen>
+    <dimen name="profile_subscription_block_icon_size">15dp</dimen>
+    <dimen name="profile_subscription_add_icon_size">30dp</dimen>
+    <dimen name="profile_subscription_add_length">20dp</dimen>
+    <dimen name="profile_subscription_add_thickness">40dp</dimen>
+    <dimen name="profile_comments_rating_size">20dp</dimen>
+
+    <dimen name="profile_patient_subscription_preview_icon">15dp</dimen>
+
+    <dimen name="messages_preview_height">90dp</dimen>
+    <dimen name="message_status_size">12dp</dimen>
+    <dimen name="message_width_min">150dp</dimen>
+
+    <dimen name="dialog_send_size">50dp</dimen>
+    <dimen name="dialog_enclosure_size">40dp</dimen>
+    <dimen name="dialog_header_button_size">40dp</dimen>
+
+    <dimen name="search_preview_height">110dp</dimen>
+
+    <dimen name="order_checkBox_size">30dp</dimen>
+    <dimen name="order_button_size">40dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>

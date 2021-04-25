@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui.messages.MessagePreviewFragment"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/messages_preview_height"
+    android:id="@+id/message_preview"
+    android:padding="10dp"
+    android:layout_marginTop="@dimen/margin_default"
+    android:layout_marginLeft="@dimen/margin_default"
+    android:layout_marginRight="@dimen/margin_default"
+    android:focusable="true"
+    android:clickable="true"
+    style="@style/ButtonDefault">
+
+    <ImageView
+        android:id="@+id/message_preview_avatar"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_weight="0"
+        android:contentDescription="@string/app_name"
+        app:srcCompat="@drawable/image_patient" />
+
+    <Space
+        android:layout_width="10dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0"
+        android:orientation="vertical">
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp" />
+
+        <TextView
+            android:id="@+id/message_preview_fio"
+            android:layout_width="match_parent"
+            android:layout_height="25dp"
+            android:text="@string/message_preview_fio" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="5dp" />
+
+        <TextView
+            android:id="@+id/message_preview_specialization"
+            android:layout_width="match_parent"
+            android:layout_height="25dp"
+            android:text="@string/message_preview_specialization" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="5dp" />
+
+    </LinearLayout>
+
+</LinearLayout>

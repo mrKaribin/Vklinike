@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui.dialog.MessageFragment"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginRight="@dimen/margin_default"
+    android:layout_marginLeft="@dimen/margin_default"
+    android:layout_marginBottom="@dimen/margin_default"
+    android:padding="@dimen/margin_small"
+    android:layout_gravity="right"
+    android:minWidth="@dimen/message_width_min"
+    style="@style/ViewDefault">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/message_text"
+        android:singleLine="false"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/layout_message_enclosure"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="@dimen/message_status_size"
+            android:layout_height="@dimen/message_status_size"
+            android:id="@+id/message_status"
+            android:src="@drawable/icon_message_send"/>
+
+        <Space
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/message_timepoint"
+            android:layout_marginLeft="@dimen/margin_default"
+            android:textSize="@dimen/text_size_small"/>
+
+    </LinearLayout>
+
+</LinearLayout>

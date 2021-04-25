@@ -1,0 +1,11 @@
+release/doctors.o
+release/patients.o
+release/users.o
+release/client.o
+release/global.o
+release/main.o
+release/server.o
+release/tester.o
+release/moc_users.o
+release/moc_client.o
+release/moc_server.o

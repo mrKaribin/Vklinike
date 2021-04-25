@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/layout_order"
+    android:layout_margin="@dimen/margin_default"
+    tools:context=".ui.order.OrderFragment">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/margin_small"
+        style="@style/ViewDefault">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="0"
+            android:layout_row="0"
+            android:layout_columnSpan="2"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/order_header"
+            style="@style/TextHeaderDefault"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_column="0"
+            android:layout_row="1"
+            android:layout_gravity="start"
+            android:text="@string/order_fio"
+            style="@style/TextHeaderSmall"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/order_fio"
+            android:layout_columnWeight="1"
+            android:layout_column="1"
+            android:layout_row="1"
+            android:layout_gravity="end"
+            android:text="@string/order_fio"
+            style="@style/TextDefaultList"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_column="0"
+            android:layout_row="2"
+            android:layout_gravity="start"
+            android:text="@string/order_specialization"
+            style="@style/TextHeaderSmall"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/order_specialization"
+            android:layout_columnWeight="1"
+            android:layout_column="1"
+            android:layout_row="2"
+            android:layout_gravity="end"
+            android:text="@string/order_specialization"
+            style="@style/TextDefaultList"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_column="0"
+            android:layout_row="3"
+            android:layout_gravity="start"
+            android:text="@string/order_duration"
+            style="@style/TextHeaderSmall"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/order_duration"
+            android:layout_columnWeight="1"
+            android:layout_column="1"
+            android:layout_row="3"
+            android:layout_gravity="end"
+            android:text="@string/order_duration"
+            style="@style/TextDefaultList"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_column="0"
+            android:layout_row="4"
+            android:layout_gravity="start"
+            android:text="@string/order_time"
+            style="@style/TextHeaderSmall"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/order_time"
+            android:layout_columnWeight="1"
+            android:layout_column="1"
+            android:layout_row="4"
+            android:layout_gravity="end"
+            android:text="@string/order_time"
+            style="@style/TextDefaultList"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_column="0"
+            android:layout_row="5"
+            android:layout_gravity="start"
+            android:text="@string/order_cost"
+            style="@style/TextHeaderSmall"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/order_cost"
+            android:layout_columnWeight="1"
+            android:layout_column="1"
+            android:layout_row="5"
+            android:layout_gravity="end"
+            android:text="@string/order_cost"
+            style="@style/TextDefaultList"/>
+
+    </GridLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_default"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/order_payout_header"
+            style="@style/TextHeaderDefault"/>
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/order_payout_paypal"
+            android:layout_marginTop="@dimen/margin_small"
+            android:text="@string/order_payout_paypal"/>
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/order_payout_yandex"
+            android:visibility="invisible"
+            android:layout_marginTop="@dimen/margin_small"
+            android:text="@string/order_payout_yandex"/>
+
+    </LinearLayout>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/order_button_size"
+        android:id="@+id/order_payout"
+        android:text="@string/order_payout"
+        android:textSize="@dimen/text_size_header_default"
+        style="@style/ButtonRounded"/>
+
+</LinearLayout>

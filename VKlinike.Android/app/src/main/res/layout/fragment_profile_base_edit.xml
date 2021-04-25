@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="@dimen/margin_default"
+    tools:context=".ui.profile.ProfileBaseEditFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <GridLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/margin_small"
+                style="@style/ViewDefault">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_row="0"
+                    android:layout_column="0"
+                    android:layout_rowSpan="3"
+                    android:layout_columnWeight="1">
+
+                    <ImageView
+                        android:layout_width="@dimen/profile_base_settings_avatar_width"
+                        android:layout_height="@dimen/profile_base_settings_avatar_height"
+                        android:id="@+id/profile_base_settings_avatar"
+                        android:layout_gravity="center"
+                        android:focusable="true"
+                        android:clickable="true"
+                        android:src="@drawable/image_patient" />
+
+                </LinearLayout>
+
+                <EditText
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_row="0"
+                    android:layout_column="1"
+                    android:layout_columnWeight="3"
+                    android:id="@+id/profile_base_settings_name"
+                    android:hint="@string/default_name"
+
+                    android:textSize="@dimen/text_size_header_default"/>
+
+                <EditText
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_row="1"
+                    android:layout_column="1"
+                    android:layout_columnWeight="3"
+                    android:id="@+id/profile_base_settings_surname"
+                    android:hint="@string/default_surname"
+                    android:textSize="@dimen/text_size_header_default"/>
+
+                <EditText
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_row="2"
+                    android:layout_column="1"
+                    android:layout_columnWeight="3"
+                    android:id="@+id/profile_base_settings_patronymic"
+                    android:hint="@string/default_patronymic"
+                    android:textSize="@dimen/text_size_header_default"/>
+
+            </GridLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="@dimen/margin_default"
+                android:padding="@dimen/margin_small"
+                style="@style/ViewDefault">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/margin_small"
+                    android:layout_marginLeft="@dimen/margin_small"
+                    android:layout_gravity="center"
+                    android:text="@string/default_birthday"
+                    style="@style/TextHeaderDefault"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <Spinner
+                        android:id="@+id/profile_base_settings_birthday_day"
+                        android:layout_marginRight="@dimen/margin_small"
+                        style="@style/SpinnerRounded"/>
+
+                    <Spinner
+                        android:id="@+id/profile_base_settings_birthday_month"
+                        android:layout_marginRight="@dimen/margin_small"
+                        style="@style/SpinnerRounded"/>
+
+                    <Spinner
+                        android:id="@+id/profile_base_settings_birthday_year"
+                        android:layout_marginRight="@dimen/margin_small"
+                        style="@style/SpinnerRounded"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="@dimen/margin_default"
+                android:padding="@dimen/margin_small"
+                style="@style/ViewDefault">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/margin_small"
+                    android:layout_gravity="center"
+                    android:text="@string/default_sex"
+                    style="@style/TextHeaderDefault"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <CheckBox
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/default_sex_male"
+                        android:id="@+id/profile_base_settings_sex_male"/>
+
+                    <Space
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"/>
+
+                    <CheckBox
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/default_sex_female"
+                        android:id="@+id/profile_base_settings_sex_female"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/profile_base_settings_email"
+                android:layout_marginTop="@dimen/margin_default"
+                android:hint="@string/default_email"
+                android:textSize="@dimen/text_size_header_default"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/profile_base_settings_phone"
+                android:layout_marginTop="@dimen/margin_default"
+                android:hint="@string/default_phone"
+                android:textSize="@dimen/text_size_header_default"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:id="@+id/profile_base_settings_doctor">
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/profile_base_settings_education"
+                    android:layout_marginTop="@dimen/margin_default"
+                    android:hint="@string/default_education"
+                    android:textSize="@dimen/text_size_header_default"/>
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/profile_base_settings_job"
+                    android:layout_marginTop="@dimen/margin_default"
+                    android:hint="@string/default_job"
+                    android:textSize="@dimen/text_size_header_default"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginTop="@dimen/margin_default"
+                    android:padding="@dimen/margin_small"
+                    style="@style/ViewDefault">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="@string/default_worktable"
+                        style="@style/TextHeaderDefault"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_marginTop="@dimen/margin_small">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="@dimen/margin_small"
+                            android:layout_gravity="center"
+                            android:text="С "
+                            android:textSize="@dimen/text_size_header_small"/>
+
+                        <Space
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"/>
+
+                        <Spinner
+                            android:id="@+id/profile_base_settings_timetable_from_hours"
+                            style="@style/SpinnerRounded"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text=" : "
+                            android:textStyle="bold"/>
+
+                        <Spinner
+                            android:id="@+id/profile_base_settings_timetable_from_minutes"
+                            style="@style/SpinnerRounded"/>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_marginTop="@dimen/margin_small">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="@dimen/margin_small"
+                            android:layout_gravity="center"
+                            android:text="До "
+                            android:textSize="@dimen/text_size_header_small"/>
+
+                        <Space
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"/>
+
+                        <Spinner
+                            android:id="@+id/profile_base_settings_timetable_to_hours"
+                            style="@style/SpinnerRounded"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text=" : "
+                            android:textStyle="bold"/>
+
+                        <Spinner
+                            android:id="@+id/profile_base_settings_timetable_to_minutes"
+                            style="@style/SpinnerRounded"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="@dimen/margin_default">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="@dimen/margin_small"
+                        android:layout_gravity="center"
+                        android:text="@string/default_reply_time"
+                        style="@style/TextHeaderDefault"/>
+
+                    <Space
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"/>
+
+                    <Spinner
+                        android:id="@+id/profile_base_settings_reply_hours"
+                        style="@style/SpinnerRounded"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text=" : "
+                        android:textStyle="bold"/>
+
+                    <Spinner
+                        android:id="@+id/profile_base_settings_reply_minutes"
+                        style="@style/SpinnerRounded"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/profile_base_settings_save"
+        android:layout_marginTop="@dimen/margin_default"
+        android:text="@string/default_save"
+        style="@style/ButtonRounded"/>
+
+</LinearLayout>
